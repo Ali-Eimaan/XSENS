@@ -1,0 +1,16 @@
+{
+    "cortex-debug.variableUseNaturalFormat": false,
+    "cSpell.words": [
+        "GPIO",
+        "huart",
+        "Systick",
+        "Xsens"
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ali-eimaan/Documents/STM32 VScode/XSENS/build",
+            "binaryPath": "/home/ali-eimaan/Documents/STM32 VScode/XSENS/build/XSENS.elf",
+            "binaryArgs": []
+        }
+    ]
+}
